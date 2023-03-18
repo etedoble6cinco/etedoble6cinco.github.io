@@ -282,12 +282,7 @@
       once: true,
       mirror: false
     })
-    var myModalEl = document.getElementById('QuoteModal')
 
-    var modal = new bootstrap.Modal(myModalEl) // initialized with defaults
-    setTimeout(function(){
-      modal.show();
-    },4000)
      
   });
 
